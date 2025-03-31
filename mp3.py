@@ -13,6 +13,7 @@ import datetime
 # Constantes
 VERSION = "1.0"
 AUTHOR = "@RealStrategy"
+CANAL = "https://www.youtube.com/@zonatodoreal"
 
 def clear_screen():
     """Limpia la pantalla de la consola"""
